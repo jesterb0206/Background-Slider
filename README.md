@@ -15,11 +15,11 @@
 
 <br>
 
-![Background Slider]()
+![Background Slider](images/background-slider.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Background-Slider/)
 
 <br>
 
